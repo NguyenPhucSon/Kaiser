@@ -13,11 +13,11 @@ void close() {
 	gWindow.free();
 
 	Mix_FreeChunk(gScratch);
-    Mix_FreeChunk(gBeat);
-    Mix_FreeChunk(gClick);
-    gClick = NULL;
-    gBeat = NULL;
-    gScratch = NULL;
+    	Mix_FreeChunk(gBeat);
+    	Mix_FreeChunk(gClick);
+    	gClick = NULL;
+    	gBeat = NULL;
+    	gScratch = NULL;
 
 	Mix_Quit();
 	IMG_Quit();
