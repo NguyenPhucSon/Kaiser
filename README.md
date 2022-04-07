@@ -10,5 +10,6 @@
 3. The number displayed on the top window indicate the mine remaining.
 4. You'll win if you mark all the mine correctly. On other hand, if you reveal a mine-containing cell, you will lose.
 5. You can replay the game by clicking on the replay icon on window whenever you want.
+6. While playing, you can turn back main menu and change game difficulty whenever you want by pressing esc key.
 
 # Have fun
