@@ -2,7 +2,7 @@
 1. Install MinGW. You can download it at: https://nuwen.net/mingw.html
 2. Set up enviroment variables: go to Advanced System setting, choose Envinronment Variables. At the System Variables zone, choose Path -> Edit -> New then type the link of folder lib in MinGW in.
 3. Save all the changes.
-4. Download all files and folder of the game and save it in the same folder. Run Minesweeper.exe and enjoy the game!.
+4. Download all files and folder of the game and put it in the same folder. Run Minesweeper.exe and enjoy the game!.
 
 # How to play
 1. Click left button to reveal a cell. The number on the cell indicate the number of mine around it.
